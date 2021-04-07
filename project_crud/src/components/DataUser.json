@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Yu-Gi-Oh",
+        "tel": "0901992054",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Yu-Gi-Oh Arc V",
+        "tel": "0901992054",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Yu-Gi-Oh Zexal",
+        "tel": "0901992054",
+        "permission": 0
+    },
+    {
+        "id": 4,
+        "name": "Yu-Gi-Oh 5DS",
+        "tel": "0901992054",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Yu-Gi-Oh GX",
+        "tel": "0901992054",
+        "permission": 1
+    },
+    {
+        "id": 6,
+        "name": "Yu-Gi-Oh X",
+        "tel": "0901992054",
+        "permission": 0
+    }
+]
